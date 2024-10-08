@@ -1,7 +1,7 @@
 # Ex03 Slot Time Table
 ## Date:08/10/2024
 ## Name:Ramkumar S
-## Reg.No:212223240120
+## Reg.No:212223220085
 
 ## AIM:
 To write a html webpage page to display your slot timetable.
